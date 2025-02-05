@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f80360fc-3a4d-42a5-8247-e2cd5178cd74}">
+		<property name="assetPath">
+			<value>character/badeline/char_bad_climb_ledge_05.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.62591836734693873</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0c7d062-b0ea-4632-a679-df366b9ce4c1}</destination>
+		</relationship>
+	</object>
+</objects>

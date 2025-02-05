@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8ed555c8-714a-45a5-a467-f74f17163903}">
+		<property name="assetPath">
+			<value>music/cassette/05_mirror_temple/mus_cass_ch5_bass3_c3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.16666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0c7d062-b0ea-4632-a679-df366b9ce4c1}</destination>
+		</relationship>
+	</object>
+</objects>

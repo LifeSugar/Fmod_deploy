@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c40e5f78-7162-4be8-8a00-7ec2bfb5f368}">
+		<property name="assetPath">
+			<value>ui/main/ui_main_assistmode_whistle_page4.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.8751473922902493</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0c7d062-b0ea-4632-a679-df366b9ce4c1}</destination>
+		</relationship>
+	</object>
+</objects>

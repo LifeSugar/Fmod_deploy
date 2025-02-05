@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f7fd181a-10ca-4860-8ef9-7da428036b64}">
+		<property name="assetPath">
+			<value>character/madeline/main_foley/char_mad_grab_03_wood_03.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.32503401360544215</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0c7d062-b0ea-4632-a679-df366b9ce4c1}</destination>
+		</relationship>
+	</object>
+</objects>

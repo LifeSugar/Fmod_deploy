@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{00db40d5-df4f-4e69-a3c9-a10d492706f7}">
+		<property name="assetPath">
+			<value>game/03_resort/game_03_fallingblock_wood_impact_01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.0166666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0c7d062-b0ea-4632-a679-df366b9ce4c1}</destination>
+		</relationship>
+	</object>
+</objects>
